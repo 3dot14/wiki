@@ -2,7 +2,7 @@
 
 ### contributing
 
-* just push to the repo if you have something to add
+* just edit the repo if you have something to add (you can do it in the browser or locally and push)
 
 ### nav
 
