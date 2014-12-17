@@ -12,4 +12,4 @@ in short:
 * 1 working branch
 * rebasing
 * push often
-* use .gitignore for junk files and passwords
+* use `.gitignore` for junk files and passwords
