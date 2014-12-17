@@ -9,4 +9,5 @@
 * [Wiki](https://github.com/3dot14/wiki/tree/master/wiki)
     * [Dictionary](https://github.com/3dot14/wiki/blob/master/wiki/dictionary.md)
     * [Git](https://github.com/3dot14/wiki/blob/master/wiki/git.md)
+    * [Resources](https://github.com/3dot14/wiki/blob/master/wiki/resources.md)
 
