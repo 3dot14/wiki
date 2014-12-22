@@ -22,3 +22,11 @@ In everyday dev's life:
 2. you make commits without remembering the ticket's number
 3. when you want to work on another ticket: `pf start <another number>`
 
+### useful links:
+
+* [Pivotal Introduction](https://netguru.co/blog/pivotal-tracker-the-meeting-place)
+* [Creating tickets the right way](https://netguru.co/blog/doing-features-and-user-stories-the-right-way)
+* [Integration Pivotal - Github - Rollbar - HipChat](https://netguru.co/blog/integrating-pivotal-tracker-with-github-rollbar-and-hipchat)
+
+
+
